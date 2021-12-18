@@ -1,0 +1,100 @@
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.exe.config
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.exe
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.pdb
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csprojResolveAssemblyReference.cache
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\MainWindow.g.cs
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\App.g.cs
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall_MarkupCompile.cache
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall_MarkupCompile.lref
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\MainWindow.baml
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.g.resources
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.Properties.Resources.resources
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.GenerateResource.Cache
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.exe
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.pdb
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\BLL.dll
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\BLL.pdb
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\SearchProduct.g.cs
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\SearchProduct.baml
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.dll
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\EntityFramework.dll
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.pdb
+C:\For Garry\Q2 2018\Database Application Development\Week 2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\EntityFramework.xml
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.exe.config
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.exe
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.pdb
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.dll
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\EntityFramework.dll
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.pdb
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.dll.config
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\EntityFramework.xml
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csprojAssemblyReference.cache
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\LoginForm.g.cs
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\App.g.cs
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall_MarkupCompile.cache
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall_MarkupCompile.lref
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\LoginForm.baml
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.g.resources
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.Properties.Resources.resources
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.GenerateResource.cache
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.CoreCompileInputs.cache
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.CopyComplete
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.exe
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.pdb
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\MainForm.g.cs
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCVShowAllProducts.g.cs
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\MainForm.baml
+C:\MIT\Q2 2018\Database Application Development\Recording\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCVShowAllProducts.baml
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.exe.config
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.exe
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.pdb
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.dll
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\EntityFramework.dll
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.pdb
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.dll.config
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\LoginForm.g.cs
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\MainForm.g.cs
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCVShowAllProducts.g.cs
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\App.g.cs
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall_MarkupCompile.cache
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall_MarkupCompile.lref
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\LoginForm.baml
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\MainForm.baml
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCVShowAllProducts.baml
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.g.resources
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.Properties.Resources.resources
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.GenerateResource.cache
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.CopyComplete
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.exe
+C:\Users\Michael\Downloads\VirtualShoppingMall-2\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.exe.config
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\VirtualShoppingMall.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.dll
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\DAL.dll.config
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\bin\Debug\EntityFramework.xml
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\LoginForm.g.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\MainForm.g.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCVShowAllProducts.g.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\App.g.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall_MarkupCompile.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall_MarkupCompile.lref
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\LoginForm.baml
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\MainForm.baml
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCVShowAllProducts.baml
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.g.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.Properties.Resources.resources
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.GenerateResource.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.csproj.CopyComplete
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.exe
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\VirtualShoppingMall.pdb
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCAddNewProduct.g.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCAddNewProduct.baml
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCUpdateProduct.g.cs
+C:\Users\Michael\Documents\Course\2018 Quarter 2\Database Application Development\Visual Studio Projects\VirtualShoppingMall\VirtualShoppingMall\obj\Debug\UCUpdateProduct.baml

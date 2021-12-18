@@ -1,0 +1,19 @@
+total sales for a selected month
+select * from Cars_Sold where MONTH(Date_Sold) = 4;
+
+total sales for car model between 2 dates
+select sum(cs.Sale_Price) AS Sales
+from IndividualCar ic left join Cars_Sold cs on CarID = Car_For_Sale_Id
+where ic.Model_ID = 1 and cs.Date_Sold between '2018/01/01' and '2018/04/01'			
+
+Top 5 most sold cars
+select TOP 5 cm.ModelID, cm.Model, cm.EngineSize, cm.Manufacturer, ic.Colour
+from CarModel cm left join IndividualCar ic on cm.ModelID = ic.Model_ID
+GROUP BY cm.ModelID, cm.Model, cm.EngineSize, cm.Manufacturer, ic.Colour
+ORDER BY COUNT(ic.Model_ID) DESC
+
+Top 5 least sold cars
+select TOP 5 cm.ModelID, cm.Model, cm.EngineSize, cm.Manufacturer, ic.Colour
+from CarModel cm left join IndividualCar ic on cm.ModelID = ic.Model_ID
+GROUP BY cm.ModelID, cm.Model, cm.EngineSize, cm.Manufacturer, ic.Colour
+ORDER BY COUNT(ic.Model_ID) ASC

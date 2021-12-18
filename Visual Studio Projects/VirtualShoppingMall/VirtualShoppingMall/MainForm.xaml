@@ -1,0 +1,40 @@
+﻿<Window x:Class="VirtualShoppingMall.MainForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VirtualShoppingMall"
+        mc:Ignorable="d"
+        Title="MainForm" Height="450" Width="800">
+    <StackPanel>
+        <Menu Name="mainMenu" FontSize="20" Background="BlanchedAlmond" Height="58">
+            <MenuItem Name="MICustomer" Header="Customer Panel">
+                <MenuItem Header="Search Product" />
+                <MenuItem Header="Buy Product"/>
+                <MenuItem Header="Manage Profile">
+                    <MenuItem Header="View Profile"/>
+                    <MenuItem Header="Update Profile"/>
+                    
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Name="MIVendor" Header="Vendor Panel">
+                <MenuItem Header="Manage Products">
+                    <MenuItem Name="SAPMItem"
+                        Header="Show All Products" Click="SAPMItem_Click"/>
+                    <MenuItem Name="APMItem" Header="Add Product" Click="APMItem_Click"/>
+                    <MenuItem Header="Search Product"/>
+                    <MenuItem Name="UPMItem" Header="Update Product" Click="UPMItem_Click"/> 
+                </MenuItem>
+                <MenuItem Header="Products Sale">
+                    <MenuItem Header="Sale Report"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Name="MIMallOwner" Header="Mall Owner Panel">
+                <MenuItem Header="Update Mall Detail"/>
+            </MenuItem>
+        </Menu>
+        <StackPanel Name="mainPanel">
+            
+        </StackPanel>
+    </StackPanel>
+</Window>

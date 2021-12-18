@@ -1,0 +1,5 @@
+select s.SID, s.Name, c.Name as CourseName from Student s inner join
+Student_Course sc on s.SID = sc.SID inner join Course
+c on c.CourseID =sc.CID where c.Name ='GDIT'
+
+select Car_Sold_ID, Car_For_Sale_Id, Customer_Id, Sale_Price, Date_Sold from Cars_Sold where YEAR(Date_Sold) = YEAR(GETDATE()) 

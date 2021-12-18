@@ -1,0 +1,31 @@
+﻿<Window x:Class="Test_Preparation.SearchAndUpdate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test_Preparation"
+        mc:Ignorable="d"
+        Title="SearchAndUpdate" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="tCustomerViewSource" d:DesignSource="{d:DesignInstance {x:Type local:TCustomer}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource tCustomerViewSource}">
+        <Label FontSize="20"
+            Content="Enter Phone" HorizontalAlignment="Left" Margin="65,29,0,0" VerticalAlignment="Top" Width="163"/>
+        <TextBox Name="txtPhone"
+            HorizontalAlignment="Left" Height="48" Margin="282,29,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="276"/>
+        <Button Content="Search" FontSize="20" Name="btnSearch"
+                HorizontalAlignment="Left" Margin="621,29,0,0" VerticalAlignment="Top" Width="139" Height="36" Click="btnSearch_Click"/>
+        <DataGrid x:Name="tCustomerDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="173,126,202.333,170.667" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="emailColumn" Binding="{Binding Email}" Header="Email" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="iDColumn" Binding="{Binding ID}" Header="ID" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="nameColumn" Binding="{Binding Name}" Header="Name" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="phoneColumn" Binding="{Binding Phone}" Header="Phone" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="btnUpdate"
+            Content="Update" HorizontalAlignment="Left" Margin="314,280,0,0" VerticalAlignment="Top" Width="127" Height="29" Click="btnUpdate_Click"/>
+
+    </Grid>
+</Window>

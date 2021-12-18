@@ -1,0 +1,30 @@
+﻿<Window x:Class="Test.frmMaintainUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+        Title="frmMaintainUser" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="userViewSource" d:DesignSource="{d:DesignInstance {x:Type local:User}, CreateList=True}"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource userViewSource}">
+        <Label Content="Search first or last name: " FontSize="20" HorizontalAlignment="Left" Margin="27,25,0,0" VerticalAlignment="Top" Height="40" Width="251"/>
+        <TextBox Name="searchTextBox" HorizontalAlignment="Left" Height="42" Margin="335,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209"/>
+
+        <DataGrid x:Name="userDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="204,203,218.6,28" RowDetailsVisibilityMode="VisibleWhenSelected">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="first_NameColumn" Binding="{Binding First_Name}" Header="First Name" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="last_NameColumn" Binding="{Binding Last_Name}" Header="Last Name" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="passwordColumn" Binding="{Binding Password}" Header="Password" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="positionColumn" Binding="{Binding Position}" Header="Position" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="user_IDColumn" Binding="{Binding User_ID}" Header="User ID" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="user_NameColumn" Binding="{Binding User_Name}" Header="User Name" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="btnSearch" Content="Search" HorizontalAlignment="Left" Margin="653,19,0,0" VerticalAlignment="Top" Width="99" Height="46" Click="btnSearch_Click"/>
+        <Button Name="btnUpdate" Content="Update User" HorizontalAlignment="Left" Margin="312,160,0,0" VerticalAlignment="Top" Width="143" Height="38" Click="btnUpdate_Click"/>
+
+    </Grid>
+</Window>
